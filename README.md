@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new Programming things  
 - 🌱 I’m currently learning C Programming language 
 - 💞️ I’m looking to collaborate on developing my self in this feild 
-- 📫 How to reach me  inst: _mohamed_bhj_  //
+- 📫 How to reach me  IG: _mohamed_bhj_  //
                        e-mail: belhadjmohamed380@gmail.com
                         
 
