@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mohamed-Belhadj
-- 👀 I’m interested in Learning new Programming things  
-- 🌱 I’m currently learning C Programming language 
-- 💞️ I’m looking to collaborate on developing my self in this feild 
-- 📫 How to reach me : belhadjmohamed380@gmail.com
+- 👀 I’m interested in the Computer science field
+- 💞️ I’m looking to collaborate on developing my self in this feild
+- currently a front-end Web developer {HTML, CSS, JS, REACT-JS} still in learning process. if u wanna have fun coding projects with me it'll be a pleasure 
+- 📫 How to reach me : belhadjmohamed380@gmail.com Discord: belhadj1363
                         
 
 <!---
