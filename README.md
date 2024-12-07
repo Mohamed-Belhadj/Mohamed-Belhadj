@@ -21,7 +21,7 @@ Databases: ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style
 <br />
 Design Tools: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br />
-Others: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), REST APIs
+Others: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ShadcnUI
 <br />
 <h2>🌱 Currently Learning</h2>
 Mastering AI integration in web apps
