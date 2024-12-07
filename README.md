@@ -1,4 +1,4 @@
-<div style="text-align: center"> 👋 Hi, I’m Younus </div>
+<div style="width:100%;text-align: center"> 👋 Hi, I’m Younus </div>
 - 📫 How to reach me : belhadjmohamed380@gmail.com / Discord: belhadj1363
   
 #### Languages:
