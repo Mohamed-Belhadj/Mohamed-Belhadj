@@ -39,7 +39,6 @@ Mastering AI integration in web apps
 Exploring CMS development
 <br />
 <h2>📫 Let's Connect</h2>
-<br />
 <a href="https://www.linkedin.com/in/mohamed-younus-belhadj/" target="_blank">Linkedin</a>
 <br />
 Portfolio (Coming Soon!)
