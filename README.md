@@ -1,3 +1,4 @@
+<img src="./Linkedin cover.png" alt="cover image" />
 <h1 style="text-align: center">👋 Hi, I'm Mohamed Younes Belhadj</h1>
 💻 Computer Science Student | 🖌️ Web Designer | 🌐 Developer <br />
 Welcome to my GitHub profile! I specialize in web technologies, focusing on UI design and development, and have a passion for crafting seamless, high-converting digital experiences.
