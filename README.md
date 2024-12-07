@@ -49,10 +49,9 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 
 #### Stats:
-  <div style="width: 100vw;display:flex;justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Belhadj&count_private=true&show_icons=true&theme=prussian" width="400">
-      <br />
+  <div style="width: 100vw;display:flex;justify-content:center;">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Belhadj&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Belhadj&count_private=true&show_icons=true&theme=prussian" width="400">
   </div>
                         
 
