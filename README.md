@@ -36,7 +36,7 @@ Exploring CMS development
 <br />
 <h2>📫 Let's Connect</h2>
 <br />
-<a href="https://www.linkedin.com/in/mohamed-younus-belhadj/">Linkedin</a>
+<a href="https://www.linkedin.com/in/mohamed-younus-belhadj/" target="_blank">Linkedin</a>
 <br />
 Portfolio (Coming Soon!)
 <br />
