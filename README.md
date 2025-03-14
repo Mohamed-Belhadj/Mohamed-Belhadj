@@ -14,7 +14,7 @@ Backend: Node.js, Express, Postgres
 <br />
 <h2>🌟 Skills & Tools </h2>
 <br />
-<!-- Programming Languages: [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+Programming Languages: [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br />
@@ -31,7 +31,7 @@ Design Tools:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br />
 Others: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ShadcnUI
-<br /> -->
+<br />
 <h2>🌱 Currently Learning</h2>
 Mastering AI integration in web apps
 <br />
